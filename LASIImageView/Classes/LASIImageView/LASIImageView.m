@@ -59,7 +59,7 @@
     {
         [self initialize];
     }
-    return self;
+    return this;
 }
 
 
